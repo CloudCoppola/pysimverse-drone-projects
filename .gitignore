@@ -1,0 +1,43 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.envrc/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Experiment outputs / results
+results/
+outputs/
+logs/
+
+# Large data files
+*.csv
+*.npy
+*.npz
+*.h5
+
+# Temporary files
+*.tmp
+*.swp
