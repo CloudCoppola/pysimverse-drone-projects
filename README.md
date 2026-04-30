@@ -14,12 +14,7 @@ This repository is designed as a structured learning system to develop practical
 ## Prerequisites
 
 - Python (3.10+ recommended)
-- pip
-
-## Setup
-
-Install the required package:
-
-```bash
-pip install pysimverse
-```
+- PySimVerse installed:
+  ```bash
+  pip install pysimverse
+  ```
